@@ -19,178 +19,178 @@
                      <person xml:id="02">
                          <persName>Леандр</persName>
                      </person>
-					 <person xml:id="03">
+		     <person xml:id="03">
                          <persName>Радамон, Миной, Эак</persName>
                      </person>
-					 <person xml:id="04">
+		     <person xml:id="04">
                          <persName>тень старыя жены</persName>
                      </person>
-					 <person xml:id="05">
+		     <person xml:id="05">
                          <persName>игрок</persName>
                      </person>
-					 <person xml:id="06">
+		     <person xml:id="06">
                          <persName>игрок</persName>
                      </person>
-					 <person xml:id="07">
+		     <person xml:id="07">
                          <persName>игрок</persName>
                      </person>
-					 <person xml:id="08">
+		     <person xml:id="08">
                          <persName>три фурии</persName>
                      </person>
-					 <person xml:id="09">
+		     <person xml:id="09">
                          <persName>отец Леандра</persName>
                      </person>
-					 <person xml:id="10">
+		     <person xml:id="10">
                          <persName>Иксион</persName>
                      </person>
-					 <person xml:id="11">
+		     <person xml:id="11">
                          <persName>Тантал</persName>
                      </person>
-					 <person xml:id="12">
+		     <person xml:id="12">
                          <persName>Геркулес</persName>
                      </person>
-					 <person xml:id="13">
+		     <person xml:id="13">
                          <persName>Тизифона</persName>
                      </person>
-					 <person xml:id="14">
+		     <person xml:id="14">
                          <persName>Алекта</persName>
                      </person>
-					 <person xml:id="15">
+		     <person xml:id="15">
                          <persName>Мегера</persName>
                      </person>
-					 <person xml:id="15">
+		     <person xml:id="15">
                          <persName>Плутон</persName>
                      </person>
-					 <person xml:id="16">
+		     <person xml:id="16">
                          <persName>Люцифер</persName>
                      </person> 
-					 <person xml:id="17">
+		     <person xml:id="17">
                          <persName>судьи</persName>
                      </person> 
-				 </listPerson>
+		</listPerson>
               </particDesc>
           </profileDesc>
-		  <settingDesc>
-				 <listPlace>
-					 <place xml:id="imaginaryplace01">
-						 <placeName>Елисейские поля</placeName>
-                     </place>
-					 <place xml:id="imaginaryplace02">
-						 <placeName>Тартар</placeName>
-					 </place>
-				 </listPlace>
+	  <settingDesc>
+		<listPlace>
+		    <place xml:id="imaginaryplace01">
+			<placeName>Елисейские поля</placeName>
+                    </place>
+		    <place xml:id="imaginaryplace02">
+			<placeName>Тартар</placeName>
+		    </place>
+		</listPlace>
          </settingDesc>
-    </teiHeader
+       </teiHeader
     <text>   
-			На что тут <person xml:id="03"><persName>Радамон,Миной</persName></person> рек и <person xml:id="03"><persName>Эак</persName></person>:
-			<person xml:id="05"><personname>Ты</personname></person> смеешь называть расколом тот поляк,
-			Поляк, что в ломбере прямое совершенство?
-            Кто выдумал его, тот примет здесь блаженство;
-            А <person xml:id="05"><personname>ты</personname></person> постраждешь так, как страждет <person xml:id="10"><persName>Иксион</persName></person>. 
-            Поди и испускай во аде вечный стон.
-			По сих словах к <person xml:id="05"><personname>нему</personname></person> <person xml:id="08"><persName>три фурий</persName></person> прилетели:
-			Змеи́ на их главах ужасно зашипели;
-			Уже <person xml:id="05"><personname>несчастного</personname></person> на злую казнь влекут.
-			<person xml:id="02"><persName>Леандр</persName></person> содро́гнулся, увидя строгий суд.
-			Потом <person xml:id="04">тень старыя жены <persName>тень старыя жены</persName></person> тут к <person xml:id="03"><personname>ним</personname></person> приспела,
-			<person xml:id="04"><personname>Я</personname></person> век свой вопиет-за ломбером сидела,
-			<person xml:id="04"><personname>Я</personname></person> часто по три дни не ела, не пила,
-			Не вставывала <person xml:id="04"><personname>я</personname></person> для нужд и не спала,
-			Но в  жизнь мою всегда над сей игрой трудилась,
-			По самый злой тот час, как к <person xml:id="03"><personname>вам</personname></person> переселилась.
-			Но думаю, что <person xml:id="03"><personname>вы</personname></person>, о! <person xml:id="03"><personname>адские судьи</personname></person>,
-			За толь несносные в игре труды мои
-			Здесь не осудите <person xml:id="04"><personname>меня</personname></person> на муки строги	
-			На те ее слова восстали сами <person xml:id="03"><personname>боги</personname></person>,
-			Восстав и начали <person xml:id="04"><personname>тень стару</personname></person> обнимать:
-			Прими возмездие, прими, о! наша <person xml:id="04"><personname>мать</personname></person>
-			Таким <person xml:id="04"><personname>ее</personname></person> <person xml:id="03"><personname>судьи</personname></person> названием почтили,
-			И в  <place xml:id="imaginaryplace01"><placeName>Елисейские поля</placeName></place> потом вселили.
-			Еще идет <person xml:id="06"><persName>игрок</persName></person>, в цепях окован весь
-			Отколе <person xml:id="06"><personname>ты</personname></person> пришел и к нам явился здесь?
-			Так <person xml:id="03"><personname>адские судьи</personname></person> в свирепстве закричали,
-            И что <person xml:id="06"><personname>он</personname></person> делал в жизнь сказать повелевали
-			Как в карты <person xml:id="06"><personname>ты</personname></person> играл? <person xml:id="06"><personname>несчастный</personname></person>! говори!
-			О <person xml:id="03"><personname>правосудные бессмертные цари</personname></person>,
-			Сказал <person xml:id="06"><personname>несчастливый</personname></person>, свои потупя очи
-			За ломбером <person xml:id="06"><personname>я</personname></person> дни просиживал и ночи;
-            А в ломбер на земле <person xml:id="06"><personname>я</personname></person> сорок лет играл;
-            Но счастлив никогда до тех пор не бывал,
-            Доколе подбирать <person xml:id="06"><personname>я</personname></person> карт не научился.
-            Но кто бы мастерством толь легким не прельстился?
-            И чем возможно так добра кому достать,
-            Как если карты кто умеет подбирать?
-            Подбор не воровство, подбор одно уменье,
-            Чтоб можно доставать у ближнего именье.
-            Иль могут быть дела безбожны и мои?
-            Коль многи за сукном сидящие<person xml:id="17"><persName>судьи</persName></person>
-            Приличные к делам приказы подбирают;
-            И много ли они тем делом погрешают?
-            Не через то ль слывет искусный всяк судья?
-            Иль винен <person xml:id="06"><personname>я</personname></person> один, что так искусен <person xml:id="06"><personname>я</personname></person>?
-			Но <person xml:id="03"><personname>грозные судьи</personname></person> воззрели грозным взглядом:
-			Поди, <person xml:id="06"><personname>злодей</personname></person>, и тай, как <person xml:id="11"><persName>Та́нтал</persName></person>, тем же гладом;
-            И лакомы <person xml:id="17"><persName>судьи</persName></person> такую ж примут часть,
-            Когда и в <person xml:id="17"><personname>них<personname>person> с <person xml:id="06"><personname>тобой</personname></person> была едина страсть.
-			Но только с <person xml:id="06"><persName>игроком</persName></person> суд строгий совершился,
-            Как пред судья́ми вновь <person xml:id="07"><persName>игрок</persName></person> еще явился,
-            Которого была еще подлее страсть:
-            Как карты, <person xml:id="07"><personname>он</personname></person> умел и деньги также красть;
-            И если с кем имел казну в игре едину,
-            Из выигрышных крал <person xml:id="07"><personname>он</personname></person> денег половину.
-			О! страсть негодная, о! всем негодствам мать,
-			О! <person xml:id="07"><personname>хищник<personname></person>, о! <person xml:id="07"><personname>злодей</personname></person>, о! <person xml:id="07"><personname>ты</personname></person> <person xml:id="07"><personname>преподлый тать</personname></person>,
-			Так <person xml:id="03"><personname>адские судьи</personname></person> во гневе закричали
-            И в <place xml:id="imaginaryplace02"><placeName>Тартар</placeName></place> мучиться навек его послали.
-		    <person xml:id="02"><persName>Леандр</persName></person> со трепетом на все те казни зря,
-            Как вдруг все на  <person xml:id="02"><personname>него</personname></person> воззрели <person xml:id="03"><personname>три царя</personname></person>:
-			О! <person xml:id="02"><personname>юноша</personname></person>, вещай, отколе <person xml:id="02"><personname>ты</personname></person> явился?
-            И как в подземное <person xml:id="02"><personname>ты</personname></person> царство преселился?
-            Не сходит к нам никто, с душой не разлучась;
-            Един лишь <person xml:id="12"><persName>Геркулес</persName></person> места сии потряс,
-            От коего страшась содрогнулась химера,
-            И <person xml:id="13"><persName>Тизифона</persName></person> вдруг, <person xml:id="14"><persName>Алекта</persName></person> и <person xml:id="15"><persName>Мегера</persName></person>, 
-            Почувствовав его приход, воздвигли стон:
-            В опасности тогда был ад и сам <person xml:id="15"><persName>Плутон</persName></person>. 
-            Но <person xml:id="02"><personname>ты</personname></person>, о! <person xml:id="02"><personname>смертный</personname></person>, как дерзнул вступить к <person xml:id="03"><personname>нам</personname></person> ныне?
-            Погибнешь, как челнок, <person xml:id="02"><personname>ты</personname></person> в грозной сей пучине:
-            Спеши отсель! скорей спеши! <person xml:id="02"><persName>Леандр</persName></person>, спеши!
-            Но прежде житие свое нам расскажи.	
-			Давно ли <person xml:id="02"><personname>ты</personname></person> живешь меж смертными на свете?
-            И от рождения на коем начал лете
-            <person xml:id="02"><personname>Ты</personname></person>картами играть? и днесь играешь как?
-			<person xml:id="02"><persName>Леандр</persName></person> тут воздохнув, и повесть начал так:
-			О!  <person xml:id="03"><personname>правосудные цари</personname></person>,  <person xml:id="03"><personname>бессмертны боги</personname></person>,
-            Хоть лета <person xml:id="02"><personname>я</personname></person> живу на свете и немноги,
-            Но только много <person xml:id="02"><personname>я</personname></person> фортуною гоним,
-            И нет премены, ах! всем бедствиям моим.
-            <person xml:id="02"><personname>Я</personname></person> в ломбер уж играть лет десять научился,
-            А на восьмом году играл, как <person xml:id="02"><personname>я</personname></person> родился.
-            Но <person xml:id="09"><personname>мой родитель<personname></person> был ко мне безмерно строг,
-            Затем <person xml:id="02"><personname>я</personname></person> никогда играть нигде не мог,
-            Как только разве что с вернейшими рабами;
-            <person xml:id="02"><personname>Я</personname></person> в карты игрывал украдкою ночами.
-            Но после как <person xml:id="09"><personname>отец мой</personname></person> к <person xml:id="03"><personname>вам</personname></person> сюда сошел,
-			В именьи и в себе <person xml:id="02"><personname>я</personname></person> власть уж возымел;
-            Имение его мое быть после стало,
-            Играть желанье мне великое припало,
-            Не хаживал <person xml:id="02"><personname>я</personname></person> в те беседы и пиры,
-			Которые живут без карточной игры;
-            Где нет ее, мне там всегда бывает скучно.
-            И с тех пор с картами всегда <person xml:id="02"><personname>я</personname></person>неразлучно.
-            Но ах! <person xml:id="03"><personname>бессмертные</personname></person>, <person xml:id="02"><personname>мне</personname></person> счастья в картах нет.
-			<person xml:id="02"><persName>Леандру</persName></person> таковой <person xml:id="03"><personname>бессмертных</personname></person> был ответ:
-			Отныне будешь <person xml:id="02"><personname>ты</personname></person> играть, <person xml:id="02"><persName>Леандр</persName></person>, счастливо;
-            Поди, уж счастие <person xml:id="02"><personname>тебе</personname></person> не будет лживо.
-            Поди, и только лишь воздержнее играй,
-            Но поляка отнюдь расколом не считай.
-			Меж тем уже заря румяная сияла
-            И солнцев скорый в мир приход предвозвещала, 
-            Пред коей <person xml:id="16"><persName>Люцифер</persName></person> все звезды с неба гнал; 
-            Зефир, любуяся, листочки лобызал,
-            Как вдруг Леандрово окончилось виденье:
-            Вспряну́л <person xml:id="02"><personname>он</personname></person> ото сна, и с час был в изумленье;
-            Потом, опомнясь, <person xml:id="01"><personname>мне</personname></person>виденье всё сказал,
-            А <person xml:id="01"><personname>я</personname></person> что слышал, то на лире заиграл.
-	</text>
+	 На что тут <person xml:id="03"><persName>Радамон,Миной</persName></person> рек и <person xml:id="03"><persName>Эак</persName></person>:
+	<person xml:id="05"><personname>Ты</personname></person> смеешь называть расколом тот поляк,
+	Поляк, что в ломбере прямое совершенство?
+        Кто выдумал его, тот примет здесь блаженство;
+        А <person xml:id="05"><personname>ты</personname></person> постраждешь так, как страждет <person xml:id="10">	   <persName>Иксион</persName></person>. 
+        Поди и испускай во аде вечный стон.
+	По сих словах к <person xml:id="05"><personname>нему</personname></person> <person xml:id="08"><persName>три фурий</persName>  </person> прилетели:
+	Змеи́ на их главах ужасно зашипели;
+	Уже <person xml:id="05"><personname>несчастного</personname></person> на злую казнь влекут.
+	<person xml:id="02"><persName>Леандр</persName></person> содро́гнулся, увидя строгий суд.
+	Потом <person xml:id="04">тень старыя жены <persName>тень старыя жены</persName></person> тут к <person xml:id="03"><personname>ним</personname></person> приспела,
+	<person xml:id="04"><personname>Я</personname></person> век свой вопиет-за ломбером сидела,
+	<person xml:id="04"><personname>Я</personname></person> часто по три дни не ела, не пила,
+	Не вставывала <person xml:id="04"><personname>я</personname></person> для нужд и не спала,
+	Но в  жизнь мою всегда над сей игрой трудилась,
+	По самый злой тот час, как к <person xml:id="03"><personname>вам</personname></person> переселилась.
+	Но думаю, что <person xml:id="03"><personname>вы</personname></person>, о! <person xml:id="03"><personname>адские судьи</personname></person>,
+	За толь несносные в игре труды мои
+	Здесь не осудите <person xml:id="04"><personname>меня</personname></person> на муки строги	
+	На те ее слова восстали сами <person xml:id="03"><personname>боги</personname></person>,
+	Восстав и начали <person xml:id="04"><personname>тень стару</personname></person> обнимать:
+	Прими возмездие, прими, о! наша <person xml:id="04"><personname>мать</personname></person>
+	Таким <person xml:id="04"><personname>ее</personname></person> <person xml:id="03"><personname>судьи</personname></person> названием почтили,
+	И в  <place xml:id="imaginaryplace01"><placeName>Елисейские поля</placeName></place> потом вселили.
+	Еще идет <person xml:id="06"><persName>игрок</persName></person>, в цепях окован весь
+	Отколе <person xml:id="06"><personname>ты</personname></person> пришел и к нам явился здесь?
+	Так <person xml:id="03"><personname>адские судьи</personname></person> в свирепстве закричали,
+        И что <person xml:id="06"><personname>он</personname></person> делал в жизнь сказать повелевали
+	Как в карты <person xml:id="06"><personname>ты</personname></person> играл? <person xml:id="06"><personname>несчастный</personname></person>! говори!
+	О <person xml:id="03"><personname>правосудные бессмертные цари</personname></person>,
+	Сказал <person xml:id="06"><personname>несчастливый</personname></person>, свои потупя очи
+	За ломбером <person xml:id="06"><personname>я</personname></person> дни просиживал и ночи;
+        А в ломбер на земле <person xml:id="06"><personname>я</personname></person> сорок лет играл;
+        Но счастлив никогда до тех пор не бывал,
+        Доколе подбирать <person xml:id="06"><personname>я</personname></person> карт не научился.
+        Но кто бы мастерством толь легким не прельстился?
+        И чем возможно так добра кому достать,
+        Как если карты кто умеет подбирать?
+        Подбор не воровство, подбор одно уменье,
+        Чтоб можно доставать у ближнего именье.
+        Иль могут быть дела безбожны и мои?
+        Коль многи за сукном сидящие<person xml:id="17"><persName>судьи</persName></person>
+        Приличные к делам приказы подбирают;
+        И много ли они тем делом погрешают?
+        Не через то ль слывет искусный всяк судья?
+        Иль винен <person xml:id="06"><personname>я</personname></person> один, что так искусен <person xml:id="06">  <personname>я</personname></person>?
+	Но <person xml:id="03"><personname>грозные судьи</personname></person> воззрели грозным взглядом:
+	Поди, <person xml:id="06"><personname>злодей</personname></person>, и тай, как <person xml:id="11"><persName>Та́нтал</persName></person>, тем же гладом;
+        И лакомы <person xml:id="17"><persName>судьи</persName></person> такую ж примут часть,
+        Когда и в <person xml:id="17"><personname>них<personname>person> с <person xml:id="06"><personname>тобой</personname></person> была едина страсть.
+	Но только с <person xml:id="06"><persName>игроком</persName></person> суд строгий совершился,
+        Как пред судья́ми вновь <person xml:id="07"><persName>игрок</persName></person> еще явился,
+        Которого была еще подлее страсть:
+        Как карты, <person xml:id="07"><personname>он</personname></person> умел и деньги также красть;
+        И если с кем имел казну в игре едину,
+        Из выигрышных крал <person xml:id="07"><personname>он</personname></person> денег половину.
+	О! страсть негодная, о! всем негодствам мать,
+	О! <person xml:id="07"><personname>хищник<personname></person>, о! <person xml:id="07"><personname>злодей</personname></person>, о! <person xml:id="07"><personname>ты</personname></person> <person xml:id="07"><personname>преподлый тать</personname></person>,
+	Так <person xml:id="03"><personname>адские судьи</personname></person> во гневе закричали
+        И в <place xml:id="imaginaryplace02"><placeName>Тартар</placeName></place> мучиться навек его послали.
+	<person xml:id="02"><persName>Леандр</persName></person> со трепетом на все те казни зря,
+        Как вдруг все на  <person xml:id="02"><personname>него</personname></person> воззрели <person xml:id="03"><personname>три царя</personname></person>:
+	О! <person xml:id="02"><personname>юноша</personname></person>, вещай, отколе <person xml:id="02"><personname>ты</personname></person> явился?
+        И как в подземное <person xml:id="02"><personname>ты</personname></person> царство преселился?
+        Не сходит к нам никто, с душой не разлучась;
+        Един лишь <person xml:id="12"><persName>Геркулес</persName></person> места сии потряс,
+        От коего страшась содрогнулась химера,
+        И <person xml:id="13"><persName>Тизифона</persName></person> вдруг, <person xml:id="14"><persName>Алекта</persName></person> и <person xml:id="15"><persName>Мегера</persName></person>, 
+        Почувствовав его приход, воздвигли стон:
+        В опасности тогда был ад и сам <person xml:id="15"><persName>Плутон</persName></person>. 
+        Но <person xml:id="02"><personname>ты</personname></person>, о! <person xml:id="02"><personname>смертный</personname></person>, как дерзнул вступить к <person xml:id="03"><personname>нам</personname></person> ныне?
+        Погибнешь, как челнок, <person xml:id="02"><personname>ты</personname></person> в грозной сей пучине:
+        Спеши отсель! скорей спеши! <person xml:id="02"><persName>Леандр</persName></person>, спеши!
+        Но прежде житие свое нам расскажи.	
+	Давно ли <person xml:id="02"><personname>ты</personname></person> живешь меж смертными на свете?
+        И от рождения на коем начал лете
+        <person xml:id="02"><personname>Ты</personname></person>картами играть? и днесь играешь как?
+	<person xml:id="02"><persName>Леандр</persName></person> тут воздохнув, и повесть начал так:
+	О!  <person xml:id="03"><personname>правосудные цари</personname></person>,  <person xml:id="03"><personname>бессмертны боги</personname></person>,
+        Хоть лета <person xml:id="02"><personname>я</personname></person> живу на свете и немноги,
+        Но только много <person xml:id="02"><personname>я</personname></person> фортуною гоним,
+        И нет премены, ах! всем бедствиям моим.
+        <person xml:id="02"><personname>Я</personname></person> в ломбер уж играть лет десять научился,
+        А на восьмом году играл, как <person xml:id="02"><personname>я</personname></person> родился.
+        Но <person xml:id="09"><personname>мой родитель<personname></person> был ко мне безмерно строг,
+        Затем <person xml:id="02"><personname>я</personname></person> никогда играть нигде не мог,
+        Как только разве что с вернейшими рабами;
+        <person xml:id="02"><personname>Я</personname></person> в карты игрывал украдкою ночами.
+        Но после как <person xml:id="09"><personname>отец мой</personname></person> к <person xml:id="03"><personname>вам</personname></person> сюда сошел,
+	В именьи и в себе <person xml:id="02"><personname>я</personname></person> власть уж возымел;
+        Имение его мое быть после стало,
+        Играть желанье мне великое припало,
+        Не хаживал <person xml:id="02"><personname>я</personname></person> в те беседы и пиры,
+	Которые живут без карточной игры;
+        Где нет ее, мне там всегда бывает скучно.
+        И с тех пор с картами всегда <person xml:id="02"><personname>я</personname></person>неразлучно.
+        Но ах! <person xml:id="03"><personname>бессмертные</personname></person>, <person xml:id="02"><personname>мне</personname> </person> счастья в картах нет.
+	<person xml:id="02"><persName>Леандру</persName></person> таковой <person xml:id="03"><personname>бессмертных</personname></person> был ответ:
+	Отныне будешь <person xml:id="02"><personname>ты</personname></person> играть, <person xml:id="02"><persName>Леандр</persName></person>, счастливо;
+        Поди, уж счастие <person xml:id="02"><personname>тебе</personname></person> не будет лживо.
+        Поди, и только лишь воздержнее играй,
+        Но поляка отнюдь расколом не считай.
+	Меж тем уже заря румяная сияла
+        И солнцев скорый в мир приход предвозвещала, 
+        Пред коей <person xml:id="16"><persName>Люцифер</persName></person> все звезды с неба гнал; 
+        Зефир, любуяся, листочки лобызал,
+        Как вдруг Леандрово окончилось виденье:
+        Вспряну́л <person xml:id="02"><personname>он</personname></person> ото сна, и с час был в изумленье;
+        Потом, опомнясь, <person xml:id="01"><personname>мне</personname></person>виденье всё сказал,
+        А <person xml:id="01"><personname>я</personname></person> что слышал, то на лире заиграл.
+   </text>
 </TEI>
